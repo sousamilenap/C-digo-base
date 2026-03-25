@@ -1,5 +1,5 @@
 programa
-{ 
+{
   // Leia um número inteiro
   // Calcule o dobro
   // Calcule o triplo
